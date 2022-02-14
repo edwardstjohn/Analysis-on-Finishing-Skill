@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16377,Leeds,Manchester United,0.568342,1.64248,1,5,a,2021-08-14 11:30:00
+16390,Leeds,Everton,0.966093,1.85713,2,2,h,2021-08-21 14:00:00
+16403,Leeds,Burnley,1.52078,1.71102,1,1,a,2021-08-29 13:00:00
+16414,Leeds,Liverpool,0.652514,4.4016,0,3,h,2021-09-12 15:30:00
+16416,Leeds,Newcastle United,1.42995,1.17668,1,1,a,2021-09-17 19:00:00
+16429,Leeds,West Ham,1.1967,1.98962,1,2,h,2021-09-25 14:00:00
+16440,Leeds,Watford,1.57388,0.192794,1,0,h,2021-10-02 14:00:00
+16454,Leeds,Southampton,0.446173,1.83082,0,1,a,2021-10-16 14:00:00
+16462,Leeds,Wolverhampton Wanderers,1.71313,0.858644,1,1,h,2021-10-23 14:00:00
+16472,Leeds,Norwich,1.16855,0.661887,2,1,a,2021-10-31 14:00:00
+16482,Leeds,Leicester,1.96551,0.795292,1,1,h,2021-11-07 14:00:00

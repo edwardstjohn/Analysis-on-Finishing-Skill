@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16376,Brentford,Arsenal,1.88818,1.02385,2,0,h,2021-08-13 19:00:00
+16389,Brentford,Crystal Palace,0.712439,0.606313,0,0,a,2021-08-21 14:00:00
+16399,Brentford,Aston Villa,1.13312,0.431464,1,1,a,2021-08-28 14:00:00
+16408,Brentford,Brighton,0.729786,0.287902,0,1,h,2021-09-11 14:00:00
+16417,Brentford,Wolverhampton Wanderers,2.32741,1.02316,2,0,a,2021-09-18 11:30:00
+16432,Brentford,Liverpool,2.94058,2.25736,3,3,h,2021-09-25 16:30:00
+16444,Brentford,West Ham,1.30098,1.37258,2,1,a,2021-10-03 13:00:00
+16448,Brentford,Chelsea,1.62169,0.248256,0,1,h,2021-10-16 16:30:00
+16457,Brentford,Leicester,1.16789,1.00254,1,2,h,2021-10-24 13:00:00
+16467,Brentford,Burnley,0.834312,2.72901,1,3,a,2021-10-30 14:00:00
+16477,Brentford,Norwich,2.79229,1.15797,1,2,h,2021-11-06 15:00:00

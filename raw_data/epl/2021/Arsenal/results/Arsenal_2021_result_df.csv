@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16376,Arsenal,Brentford,1.02385,1.88818,0,2,a,2021-08-13 19:00:00
+16394,Arsenal,Chelsea,0.630099,3.64132,0,2,h,2021-08-22 15:30:00
+16396,Arsenal,Manchester City,0.116805,4.47273,0,5,a,2021-08-28 11:30:00
+16407,Arsenal,Norwich,2.68515,0.577292,1,0,h,2021-09-11 14:00:00
+16419,Arsenal,Burnley,1.09928,0.775574,1,0,a,2021-09-18 14:00:00
+16434,Arsenal,Tottenham,1.44499,0.980166,3,1,h,2021-09-26 15:30:00
+16436,Arsenal,Brighton,0.36431,1.11551,0,0,a,2021-10-02 16:30:00
+16446,Arsenal,Crystal Palace,1.7436,0.492239,2,2,h,2021-10-18 19:00:00
+16456,Arsenal,Aston Villa,3.4984,1.41088,3,1,h,2021-10-22 19:00:00
+16468,Arsenal,Leicester,1.10288,1.98801,2,0,a,2021-10-30 11:30:00
+16476,Arsenal,Watford,1.49208,0.491659,1,0,h,2021-11-07 14:00:00

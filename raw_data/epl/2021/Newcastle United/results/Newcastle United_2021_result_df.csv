@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16384,Newcastle United,West Ham,1.67926,3.00939,2,4,h,2021-08-15 13:00:00
+16388,Newcastle United,Aston Villa,0.63163,1.18426,0,2,a,2021-08-21 14:00:00
+16397,Newcastle United,Southampton,1.19077,3.46036,2,2,h,2021-08-28 14:00:00
+16410,Newcastle United,Manchester United,0.622042,2.77326,1,4,a,2021-09-11 14:00:00
+16416,Newcastle United,Leeds,1.17668,1.42995,1,1,h,2021-09-17 19:00:00
+16427,Newcastle United,Watford,2.52338,0.904061,1,1,a,2021-09-25 14:00:00
+16445,Newcastle United,Wolverhampton Wanderers,0.865217,1.15849,1,2,a,2021-10-02 14:00:00
+16452,Newcastle United,Tottenham,0.645658,1.55008,2,3,h,2021-10-17 15:30:00
+16460,Newcastle United,Crystal Palace,0.721813,2.25588,1,1,a,2021-10-23 14:00:00
+16471,Newcastle United,Chelsea,0.157616,2.16608,0,3,h,2021-10-30 14:00:00
+16478,Newcastle United,Brighton,0.227321,1.43123,1,1,a,2021-11-06 17:30:00

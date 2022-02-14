@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16380,Everton,Southampton,2.38863,0.580601,3,1,h,2021-08-14 14:00:00
+16390,Everton,Leeds,1.85713,0.966093,2,2,a,2021-08-21 14:00:00
+16400,Everton,Brighton,1.54868,0.701622,2,0,a,2021-08-28 14:00:00
+16415,Everton,Burnley,1.80386,1.82061,3,1,h,2021-09-13 19:00:00
+16422,Everton,Aston Villa,0.755035,0.777716,0,3,a,2021-09-18 16:30:00
+16428,Everton,Norwich,2.26681,0.800903,2,0,h,2021-09-25 14:00:00
+16442,Everton,Manchester United,1.32211,1.0496,1,1,a,2021-10-02 11:30:00
+16449,Everton,West Ham,0.854165,2.03034,0,1,h,2021-10-17 13:00:00
+16461,Everton,Watford,1.84089,3.10344,2,5,h,2021-10-23 14:00:00
+16475,Everton,Wolverhampton Wanderers,1.69767,1.69344,1,2,a,2021-11-01 20:00:00
+16481,Everton,Tottenham,0.597906,0.801798,0,0,h,2021-11-07 14:00:00

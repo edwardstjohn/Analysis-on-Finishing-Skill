@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16385,Manchester City,Tottenham,2.10585,1.06014,0,1,a,2021-08-15 15:30:00
+16387,Manchester City,Norwich,2.43928,0.0250088,5,0,h,2021-08-21 14:00:00
+16396,Manchester City,Arsenal,4.47273,0.116805,5,0,h,2021-08-28 11:30:00
+16409,Manchester City,Leicester,2.75058,0.8001,1,0,a,2021-09-11 14:00:00
+16421,Manchester City,Southampton,1.22451,0.490923,0,0,h,2021-09-18 14:00:00
+16426,Manchester City,Chelsea,1.69244,0.194202,1,0,a,2021-09-25 11:30:00
+16441,Manchester City,Liverpool,1.04319,0.949368,2,2,a,2021-10-03 15:30:00
+16451,Manchester City,Burnley,2.15712,1.07719,2,0,h,2021-10-16 14:00:00
+16458,Manchester City,Brighton,3.57376,1.1695,4,1,a,2021-10-23 16:30:00
+16470,Manchester City,Crystal Palace,0.65739,1.05029,0,2,h,2021-10-30 14:00:00
+16483,Manchester City,Manchester United,2.04202,0.759561,2,0,a,2021-11-06 12:30:00

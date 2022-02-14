@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16381,Leicester,Wolverhampton Wanderers,0.668082,1.32714,1,0,h,2021-08-14 14:00:00
+16395,Leicester,West Ham,0.62676,2.28613,1,4,a,2021-08-23 19:00:00
+16398,Leicester,Norwich,1.27371,1.44084,2,1,a,2021-08-28 14:00:00
+16409,Leicester,Manchester City,0.8001,2.75058,0,1,h,2021-09-11 14:00:00
+16423,Leicester,Brighton,1.25373,1.47438,1,2,a,2021-09-19 13:00:00
+16430,Leicester,Burnley,2.16233,0.428866,2,2,h,2021-09-25 14:00:00
+16439,Leicester,Crystal Palace,1.04322,1.1703,2,2,a,2021-10-03 13:00:00
+16450,Leicester,Manchester United,2.96611,1.02494,4,2,h,2021-10-16 14:00:00
+16457,Leicester,Brentford,1.00254,1.16789,2,1,a,2021-10-24 13:00:00
+16468,Leicester,Arsenal,1.98801,1.10288,0,2,h,2021-10-30 11:30:00
+16482,Leicester,Leeds,0.795292,1.96551,1,1,a,2021-11-07 14:00:00

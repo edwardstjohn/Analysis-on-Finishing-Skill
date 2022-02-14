@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16377,Manchester United,Leeds,1.64248,0.568342,5,1,h,2021-08-14 11:30:00
+16392,Manchester United,Southampton,2.26173,0.587526,1,1,a,2021-08-22 13:00:00
+16405,Manchester United,Wolverhampton Wanderers,0.944083,1.79575,1,0,a,2021-08-29 15:30:00
+16410,Manchester United,Newcastle United,2.77326,0.622042,4,1,h,2021-09-11 14:00:00
+16424,Manchester United,West Ham,1.8954,1.6671,2,1,a,2021-09-19 13:00:00
+16431,Manchester United,Aston Villa,1.9251,1.57249,0,1,h,2021-09-25 11:30:00
+16442,Manchester United,Everton,1.0496,1.32211,1,1,h,2021-10-02 11:30:00
+16450,Manchester United,Leicester,1.02494,2.96611,2,4,a,2021-10-16 14:00:00
+16463,Manchester United,Liverpool,1.35584,4.04765,0,5,h,2021-10-24 15:30:00
+16473,Manchester United,Tottenham,1.38612,1.15787,3,0,a,2021-10-30 16:30:00
+16483,Manchester United,Manchester City,0.759561,2.04202,0,2,h,2021-11-06 12:30:00

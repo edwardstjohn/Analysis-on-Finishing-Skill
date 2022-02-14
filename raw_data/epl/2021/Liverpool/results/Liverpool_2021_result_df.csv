@@ -1,0 +1,11 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16383,Liverpool,Norwich,1.78728,1.3333,3,0,a,2021-08-14 16:30:00
+16386,Liverpool,Burnley,2.63945,0.690464,2,0,h,2021-08-21 11:30:00
+16402,Liverpool,Chelsea,2.08462,0.573638,1,1,h,2021-08-28 16:30:00
+16414,Liverpool,Leeds,4.4016,0.652514,3,0,a,2021-09-12 15:30:00
+16420,Liverpool,Crystal Palace,2.76793,0.644168,3,0,h,2021-09-18 14:00:00
+16432,Liverpool,Brentford,2.25736,2.94058,3,3,a,2021-09-25 16:30:00
+16441,Liverpool,Manchester City,0.949368,1.04319,2,2,h,2021-10-03 15:30:00
+16455,Liverpool,Watford,3.65553,0.302302,5,0,a,2021-10-16 11:30:00
+16463,Liverpool,Manchester United,4.04765,1.35584,5,0,a,2021-10-24 15:30:00
+16469,Liverpool,Brighton,1.39778,1.51032,2,2,h,2021-10-30 14:00:00

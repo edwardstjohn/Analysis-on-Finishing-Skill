@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16379,Crystal Palace,Chelsea,0.321701,1.18709,0,3,a,2021-08-14 14:00:00
+16389,Crystal Palace,Brentford,0.606313,0.712439,0,0,h,2021-08-21 14:00:00
+16401,Crystal Palace,West Ham,1.67658,1.44748,2,2,a,2021-08-28 14:00:00
+16406,Crystal Palace,Tottenham,2.89372,0.0775646,3,0,h,2021-09-11 11:30:00
+16420,Crystal Palace,Liverpool,0.644168,2.76793,0,3,a,2021-09-18 14:00:00
+16435,Crystal Palace,Brighton,1.36836,0.649566,1,1,h,2021-09-27 19:00:00
+16439,Crystal Palace,Leicester,1.1703,1.04322,2,2,h,2021-10-03 13:00:00
+16446,Crystal Palace,Arsenal,0.492239,1.7436,2,2,a,2021-10-18 19:00:00
+16460,Crystal Palace,Newcastle United,2.25588,0.721813,1,1,h,2021-10-23 14:00:00
+16470,Crystal Palace,Manchester City,1.05029,0.65739,2,0,a,2021-10-30 14:00:00
+16480,Crystal Palace,Wolverhampton Wanderers,2.65161,0.25416,2,0,h,2021-11-06 15:00:00

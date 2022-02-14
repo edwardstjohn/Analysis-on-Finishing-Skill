@@ -1,0 +1,12 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+16382,Watford,Aston Villa,1.35036,1.13718,3,2,h,2021-08-14 14:00:00
+16391,Watford,Brighton,0.407224,1.77896,0,2,a,2021-08-21 16:30:00
+16404,Watford,Tottenham,0.596016,0.920963,0,1,a,2021-08-29 13:00:00
+16412,Watford,Wolverhampton Wanderers,0.185407,2.55922,0,2,h,2021-09-11 14:00:00
+16418,Watford,Norwich,2.42487,0.782665,3,1,a,2021-09-18 14:00:00
+16427,Watford,Newcastle United,0.904061,2.52338,1,1,h,2021-09-25 14:00:00
+16440,Watford,Leeds,0.192794,1.57388,0,1,a,2021-10-02 14:00:00
+16455,Watford,Liverpool,0.302302,3.65553,0,5,h,2021-10-16 11:30:00
+16461,Watford,Everton,3.10344,1.84089,5,2,a,2021-10-23 14:00:00
+16474,Watford,Southampton,0.852556,1.90757,0,1,h,2021-10-30 14:00:00
+16476,Watford,Arsenal,0.491659,1.49208,0,1,a,2021-11-07 14:00:00
